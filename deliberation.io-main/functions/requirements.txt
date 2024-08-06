@@ -1,0 +1,5 @@
+firebase_functions~=0.1.0
+openai==0.28
+pandas
+requests
+matplotlib
